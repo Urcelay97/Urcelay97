@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas Urcelay @Urcelay97, here I put all my personal and university projects that I did. 
+- 👋 Hi, I’m Nicolas Urcelay @Urcelay97, here I put all my personal and university projects that I did. I'm in process to upload all my projects.
 
 - 👀 I’m interested in programing **physical simulations**, **data science**, **machine learning** and **image procesing**.
 - 🏁 Currently I work in a **julia** package named *DiferentialEvolution.jl* that implement **Diferential Evolution** in order to obtain critical values of a function.
